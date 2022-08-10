@@ -1,8 +1,12 @@
-### Hi, I’m @AndrewAmore!
+<div align="center">
+<a href="https://www.andrew-amore.com">
+    <img src="header.svg" width="400" height="200" alt="css-in-readme">
+</div>
+<p align='center'>
+<a href="https://dev.to/andrewmore"><img height="30" src="https://github.com/AndrewAmore/AndrewAmore/blob/main/tiles/AA_Logo.png?raw=true"></a>&nbsp;&nbsp;
+<a href="www.linkedin.com/in/andrew-amore"><img height="30" src="https://github.com/AndrewAmore/AndrewAmore/blob/main/tiles/LinkedIn.png?raw=true"></a>
+</p>
 
-I’m currently studying statistical science at Duke. Check out [my website](https://andrew-amore.com) for more information about me.
-
-<!---
-AndrewAmore/AndrewAmore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align='center'>
+            I'm a statistics student at Duke with professional experience building probablistic software for complicated risk assessments, setting up information pipelines as a data engineer and cloud native development experience on OpenShift. Check out <a href="https://andrew-amore.com">my website</a> for more information about me.
+</p>

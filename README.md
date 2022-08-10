@@ -3,8 +3,8 @@
     <img src="header.svg" width="400" height="200" alt="css-in-readme">
 </div>
 <p align='center'>
-<a href="https://dev.to/andrewmore"><img height="30" src="https://github.com/AndrewAmore/AndrewAmore/blob/main/tiles/AA_Logo.png?raw=true"></a>&nbsp;&nbsp;
-<a href="www.linkedin.com/in/andrew-amore"><img height="30" src="https://github.com/AndrewAmore/AndrewAmore/blob/main/tiles/LinkedIn.png?raw=true"></a>
+<a href="https://www.andrew-amore.com"><img height="30" src="https://github.com/AndrewAmore/AndrewAmore/blob/main/tiles/AA_Logo.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/andrew-amore"><img height="30" src="https://github.com/AndrewAmore/AndrewAmore/blob/main/tiles/LinkedIn.png?raw=true"></a>
 </p>
 
 <p align='center'>

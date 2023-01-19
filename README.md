@@ -8,5 +8,5 @@
 </p>
 
 <p align='center'>
-            I'm a statistics student at Duke with professional experience building probablistic software for risk assessments, setting up information pipelines as a data engineer and cloud native development experience on OpenShift. Check out <a href="https://www.andrew-amore.com/static_pages/content">my content</a> page for more projects.
+            I'm a statistics student at Duke with professional experience building probablistic software for risk assessments, setting up information pipelines as a data engineer and developing cloud native applications on OpenShift. Check out <a href="https://www.andrew-amore.com/static_pages/content">my content</a> page for more projects.
 </p>

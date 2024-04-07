@@ -8,5 +8,7 @@
 </p>
 
 <p align='center'>
-            Experienced professional with experience building probablistic software for risk assessments, setting up information pipelines as a data engineer and developing cloud native applications on OpenShift. Check out <a href="https://www.andrew-amore.com/static_pages/content">my content</a> page for more projects.
+            Experienced professional with experience building probablistic software for risk assessments, setting up information pipelines as a data engineer and developing cloud native applications on OpenShift. 
 </p>
+
+<!-- Check out <a href="https://www.andrew-amore.com/static_pages/content">my content</a> page for more projects. -->
